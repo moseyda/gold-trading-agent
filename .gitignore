@@ -1,0 +1,6 @@
+AGENTS.md
+/docs
+.agents
+.env
+*.db
+logs/
