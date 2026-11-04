@@ -18,5 +18,5 @@ __pycache__/
 *.parquet
 
 # Trained model artefacts
-models/*
-!models/.gitkeep
+backend/models/*
+!backend/models/.gitkeep
