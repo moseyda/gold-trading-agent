@@ -4,3 +4,19 @@ AGENTS.md
 .env
 *.db
 logs/
+
+# Python virtual environments
+.venv/
+venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Historical market datasets
+*.parquet
+
+# Trained model artefacts
+models/*
+!models/.gitkeep
